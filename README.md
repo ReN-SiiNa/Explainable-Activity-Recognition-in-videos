@@ -62,14 +62,6 @@ Each XAI method was evaluated using the following metrics:
 
 ---
 
-## 🎥 Demo Videos
-
-- 🔗 [Model Prediction Demo](/Output.mp4)  
-  Shows the activity recognition results with ConvLSTM across various sample videos.
-
-- 🔗 [XAI Visualization Demo](/gradcam.mp4)  
-  Demonstrates GradCAM, SHAP, and LRP heatmaps and visual explanations.
-
 
 ## Conclusion
 
